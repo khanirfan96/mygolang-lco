@@ -24,7 +24,7 @@ func main() {
 	// default values and some aliases
 	// if type will be string then it will "".
 	var anothervariables int
-	fmt.Println(anothervariables)    /// answer will 0
+	fmt.Println(anothervariables) /// answer will 0
 	fmt.Printf("Variable is of type: %T \n", anothervariables)
 
 	// implicit type
